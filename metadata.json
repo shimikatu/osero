@@ -1,0 +1,5 @@
+{
+  "name": "React Othello Game",
+  "description": "A classic Othello (Reversi) game built with React, TypeScript, and Tailwind CSS. Play against a friend on the same device. The app features a clean interface, visual hints for valid moves, and automatic score tracking.",
+  "requestFramePermissions": []
+}
